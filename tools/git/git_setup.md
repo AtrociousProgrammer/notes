@@ -18,6 +18,7 @@ There are two modes `git config --global` and `git config --local`(default):
    credentails(once, during set up) for each repository.
 
 Set you username and email like so: 
+
 	```
 	> git config --global user.name "[Your User Name]"
 	> git config --global user.email "[yourusername]@github.com"
