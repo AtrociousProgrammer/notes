@@ -19,10 +19,8 @@ There are two modes `git config --global` and `git config --local`(default):
 
 Set you username and email like so: 
 
-	```
 	> git config --global user.name "[Your User Name]"
 	> git config --global user.email "[yourusername]@github.com"
-	```
 
 Make sure to add the email provided by GitHub. You can look for it in your
 settings: [Github Email Settings](https://github.com/settings/emails)
